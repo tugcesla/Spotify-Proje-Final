@@ -1,10 +1,10 @@
 Proje Detayları:
 
-Kullandığım veri seti veri seti, 18.000'den fazla şarkıya ait ses özellikleri ve şarkı sözleri içermektedir. Hayata geçirmeye çalıştığım fikir ; Müzik platformlarından elde edilen kullanıcı dinleme verileri ile kullanıcıları analiz edip müzik tercihlerini kümeleyebilmekti.Bu projede müziğe olan ilgilere göre kullanıcıları gruplandırarak (Unsupervised) ve onlara öneriler sunacak modeller geliştirmeyi hedeflemiştim (Supervised).
+- Kullandığım veri seti veri seti, 18.000'den fazla şarkıya ait ses özellikleri ve şarkı sözleri içermektedir. Hayata geçirmeye çalıştığım fikir ; Müzik platformlarından elde edilen kullanıcı dinleme verileri ile kullanıcıları analiz edip müzik tercihlerini kümeleyebilmekti.Bu projede müziğe olan ilgilere göre kullanıcıları gruplandırarak (Unsupervised) ve onlara öneriler sunacak modeller geliştirmeyi hedeflemiştim (Supervised).
 
-Gözetimli öğrenme algoritması olarak kNN sınıflandırıcısını kullandım.
+- Gözetimli öğrenme algoritması olarak kNN sınıflandırıcısını kullandım.
 
-Gözetimsiz öğrenme algoritması olarak KMeans kümelemesini kullandım. 
+- Gözetimsiz öğrenme algoritması olarak KMeans kümelemesini kullandım. 
 
 
 Sonuç Gözlemleri ve Verileri: 
