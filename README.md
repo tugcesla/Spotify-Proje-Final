@@ -9,7 +9,7 @@ Proje Detayları:
 
 Sonuç Gözlemleri ve Verileri: 
 
-Gözlemlerim doğrultusunda Gözetimli öğrenme algoritmam görece iyi çalışırken Gözetimsiz algoritmamın çalışması yetersiz kalmış oldu.
+- Gözlemlerim doğrultusunda Gözetimli öğrenme algoritmam görece iyi çalışırken Gözetimsiz algoritmamın çalışması yetersiz kalmış oldu.
 Cross-Validation Accuracy Scores: [0.18489672 0.19607179 0.19031493 0.18224932 0.18699187]
 Mean Accuracy: 0.18810492659616743 ( En son olarak %18 e accuracy değerimi çıkarabilmiş oldum.)
 Best Parameters: {'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 2}
